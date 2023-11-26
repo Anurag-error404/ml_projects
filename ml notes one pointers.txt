@@ -1,0 +1,23 @@
+Supervised
+- Regression
+ > Linear Regression
+ > Logistic Regression
+
+- Classification
+ > Naive Bayes
+ > Decision Tree
+ > Random Forest
+ > Knn
+
+- Clustering
+ > Hierarichal
+	. Agglomerative
+	. divisive
+ > Partitioning
+	. K means
+	. Fuzzy Clustering
+
+
+low variance - Linear Regression, Logistic Regression
+high variance - decision tree, Support Vector Machine, and K-nearest neighbours
+ 
